@@ -1,0 +1,14 @@
+p{
+	font-size: 25px;
+	color: rgb(255, 0, 255);
+}
+#blue{
+	color:blue;
+}
+#lorem{
+	color: yellow;
+}
+.bl{
+	background-color: green;
+	color: grey;
+}
